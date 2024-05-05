@@ -1,2 +1,7 @@
+name = "nyasHttp"
+uuid = "6c4d3f38-2ba4-49d7-a826-ceed5b8dba28"
+authors = ["nyasyamorina <1275935966@qq.com>"]
+version = "0.1.0"
+
 [deps]
 HTTP = "cd3eb016-35fb-5094-929b-558a96fad6f3"
